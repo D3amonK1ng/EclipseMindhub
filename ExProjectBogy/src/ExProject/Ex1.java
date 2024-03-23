@@ -1,5 +1,6 @@
 package ExProject;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -17,7 +18,13 @@ public class Ex1 {
 	
 	public static List<Integer> getEvenInt(List<Integer> list){
 		return null;
+		
+//	int[] evenNumbers = {3, 4, 5, 6, 7, 9};
+//	for (int i = 0; i < evenNumbers.length; i++) {
+//		if(evenNumbers[i] % 2 == 0) {
+//			System.out.println(evenNumbers[i]);
+//		}
 	}
-	
-	
+		
+		
 }

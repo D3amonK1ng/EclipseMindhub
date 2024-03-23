@@ -81,7 +81,7 @@ public class Test {
 	    }
 	}
 
-	class GeometricFigureContainer<T extends GeometricFigure> {
+	static class GeometricFigureContainer<T extends GeometricFigure> {
 	    private List<T> figures;
 
 	    public GeometricFigureContainer() {
